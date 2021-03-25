@@ -1,3 +1,4 @@
+전향카빙 Forward Carving
 털리다 chatter ; Edge falling continuously but not falling completely.
 터지다 burst? break? : the falling of the edge completely
 골반 로테이션 pelvis rotation
