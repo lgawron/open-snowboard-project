@@ -6,14 +6,36 @@
 기울기 inclination
 전경 forward shifted weight : a state of that more weight is placed in the front(nose)
 중경 centered weight : a state of near-center weight
-후경 backward shifted weight : a state of that more weight is placed in the back(tail)
-후경축 back leg axis??  : The back leg axis is state of pelvis on the back foot, and the R or K-shaped position is called the back leg axis position.
-엣지 그립력 edge grip force?? : the force of the edge holding the snow.
+후경 backward shifted weight : a state of that more weight is placed in the rear(tail)
+후경축 rear leg axis??  : The rear leg axis is state of pelvis over the rear foot, and the R or K-shaped position is called the rear leg axis position.
+엣지그립력 edge grip(edge hold) : the force of the edge holding the snow.
+날박기(날세우기) edging : 날을 세우거나 해서 날을 설면에 파고들게 하는 것.
+초급자 beginner
+중급자 intermediate
+상급자 advanced
+전문가 expert
+원심력 centrifugal force
+구심력 centripetal force
+다져진눈 compact snow(packed snow)
+인공눈(제설기눈) artifical snow
+범프 convex : 볼록한면 이란 단어로 사면에 형성된 눈더미를 표현할때
+상체 로테이션 upper body rotation
+업다운 : vertical movement
+무게중심 : COM (center of mass)
+지지점 : BOS (base of support)
+폴라인 : fallline
+뒷발차기 flat swing
+굽히기 : flexion 
+앞발 : front foot
+뒷발 : rear foot
+가파르다 : steep
 
 **Frequently mistranslated Words (Because I used a translator before I modified it)
 forward -> future
 stuck, be caught -> occurs somthing(pressure, resistance, power of edge grip, weight shifting)
 burst -> loose the edge
+Hilton -> heel side turn
 
 ** Similar words
 bias -> lean
+stage -> step
