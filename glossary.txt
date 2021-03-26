@@ -4,14 +4,15 @@
 골반 로테이션 pelvis rotation
 외경 lean-out = angulation
 기울기 inclination
-전경 leaned forward weight?? : a state of that more weight is placed in the front(nose)
-중경 central weight : a state of near-center weight
-후경 leaned backward weight?? : a state of that more weight is placed in the back(tail)
+전경 forward shifted weight : a state of that more weight is placed in the front(nose)
+중경 centered weight : a state of near-center weight
+후경 backward shifted weight : a state of that more weight is placed in the back(tail)
 후경축 back leg axis??  : The back leg axis is state of pelvis on the back foot, and the R or K-shaped position is called the back leg axis position.
+엣지 그립력 edge grip force?? : the force of the edge holding the snow.
 
-**Frequently mistranslated Words
+**Frequently mistranslated Words (Because I used a translator before I modified it)
 forward -> future
-stuck -> occurs somthing(pressure, resistance, power of edge grip)
+stuck, be caught -> occurs somthing(pressure, resistance, power of edge grip, weight shifting)
 burst -> loose the edge
 
 ** Similar words
