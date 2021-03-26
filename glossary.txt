@@ -1,6 +1,6 @@
 전향카빙 Forward Carving
 털리다 chatter ; Edge falling continuously but not falling completely.
-터지다 loose the edge : the falling of the edge completely
+터지다 washes out/washout/loses edge grip : the falling of the edge completely
 골반 로테이션 pelvis rotation
 외경 lean-out = angulation
 기울기 inclination
@@ -33,7 +33,7 @@
 **Frequently mistranslated Words (Because I used a translator before I modified it)
 forward -> future
 stuck, be caught -> occurs somthing(pressure, resistance, power of edge grip, weight shifting)
-burst -> loose the edge
+burst -> washes out/ washout
 Hilton -> heel side turn
 
 ** Similar words
