@@ -1,6 +1,6 @@
 전향카빙 Forward Carving
 털리다 chatter ; Edge falling continuously but not falling completely.
-터지다 burst? break? : the falling of the edge completely
+터지다 loose the edge : the falling of the edge completely
 골반 로테이션 pelvis rotation
 외경 lean-out = angulation
 기울기 inclination
@@ -9,3 +9,10 @@
 후경 leaned backward weight?? : a state of that more weight is placed in the back(tail)
 후경축 back leg axis??  : The back leg axis is state of pelvis on the back foot, and the R or K-shaped position is called the back leg axis position.
 
+**Frequently mistranslated Words
+forward -> future
+stuck -> occurs somthing(pressure, resistance, power of edge grip)
+burst -> loose the edge
+
+** Similar words
+bias -> lean
