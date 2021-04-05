@@ -4,6 +4,7 @@
 골반 로테이션 pelvis rotation
 외경 lean-out = angulation
 기울기 inclination
+기울이다 : tilt
 전경 forward shifted weight : a state of that more weight is placed in the front(nose)
 중경 centered weight : a state of near-center weight
 후경 backward shifted weight : a state of that more weight is placed in the rear(tail)
@@ -29,12 +30,17 @@
 앞발 : front foot
 뒷발 : rear foot
 가파르다 : steep
+상체리딩 : leading the upper body
+동조로테이션 : the sychronous rotation
+활강 : ride flat, ride flat down(ride flat down the fall line, you can say ride flat to gain speed)
+엣지를 세우다 : 
 
 **Frequently mistranslated Words (Because I used a translator before I modified it)
 forward -> future
 stuck, be caught -> occurs somthing(pressure, resistance, power of edge grip, weight shifting)
 burst -> washes out/ washout
 Hilton -> heel side turn
+blade -> edge
 
 ** Similar words
 bias -> lean
