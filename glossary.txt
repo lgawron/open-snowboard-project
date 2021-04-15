@@ -29,7 +29,8 @@
 굽히기 : flexion 
 앞발 : front foot
 뒷발 : rear foot
-가파르다 : steep
+급사 : steep slope
+완사 : gentle slope
 상체리딩 : leading the upper body
 동조로테이션 : the sychronous rotation
 활강 : riding flat, ride flat down(ride flat down the fall line, you can say ride flat to gain speed)
@@ -45,6 +46,7 @@ stuck, be caught -> occurs somthing(pressure, resistance, power of edge grip, we
 burst -> washes out/ washout
 Hilton -> heel side turn
 blade -> edge
+poll line -> fall line
 
 ** Similar words
 bias -> lean
